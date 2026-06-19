@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar";
-import Home from "./pages/Home";
-import Movies from "./pages/Movies";
-import MovieDetails from "./pages/MovieDetails";
+import Navbar from "./Components/Navbar";
+import Home from "./Pages/Home";
+import Movies from "./Pages/Movies";
+import MovieDetails from "./Pages/MovieDetails";
 
 export default function App() {
   return (
